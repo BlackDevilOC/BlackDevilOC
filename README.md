@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BlackDevilOC
+- 👋 Hi, I’m Rehan Ahmed
 - 👀 I’m interested in Full stacks web development
 - 🌱 I’m currently learning python html css and js
 - 💞️ I’m looking to collaborate on nothin for now
