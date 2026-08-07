@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Rehan Ahmed<br>👀 I’m interested in Full stacks web-app development<br>🌱 I’m currently learning python html css and flutter <br>💞️ I’m looking to collaborate on flutter and python for now<br>📫 How to reach me email me at rehan031579@gmail.com<br>
+👋 Hi, I’m Rehan Ahmed<br>👀 I’m interested in Full stacks web-app development<br>🌱 I’m currently learning python html css and flutter <br>💞️ I’m looking to collaborate on flutter and python for now<br>📫 How to reach me email me at rehan.mirani.dec@gmail.com<br>
 
 
 ## 🌐 Socials:
